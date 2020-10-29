@@ -1,0 +1,29 @@
+.SideNav {
+    /* border: 1px solid red; */
+    background-color: white;
+    height: 90vh;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.side-nav-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccd4d8;
+}
+
+.label {
+    padding: 5px;
+}
+
+.label small {
+    color: #999999;
+}
+
+.integration-label {
+    color: #1594EB;
+}
+
+.integration {
+    border-right: 4px solid #1594EB;
+}

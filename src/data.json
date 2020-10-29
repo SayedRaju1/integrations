@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Slack",
+        "about": "Slack is a proprietary business communication platform developed by Slack Technologies.",
+        "image": "https://i.ibb.co/RHymgp3/slack.png",
+        "status": "Connected",
+        "connection": true,
+        "favourite": false,
+        "blank": "Housemaid, The (Hanyo)",
+        "blank2": "828-893-7537"
+    },
+    {
+        "id": 2,
+        "name": "Facebook Ads",
+        "about": "Facebook ads are targeted to users based on their various kind of informations.",
+        "image": "https://i.ibb.co/y6hM1Q6/fb.png",
+        "status": "Connected",
+        "connection": true,
+        "favourite": false,
+        "blank": "Lord Jim",
+        "blank2": "257-416-8682"
+    },
+    {
+        "id": 3,
+        "name": "Zendesk",
+        "about": "Zendesk is a CRM company that builds software designed to improve customer relationships.",
+        "image": "https://i.ibb.co/R9B0Y5k/zendesk.png",
+        "status": "Connected",
+        "connection": true,
+        "favourite": false,
+        "blank": "Pretty Village, Pretty Flame (Lepa sela lepo gore)",
+        "blank2": "839-270-5691"
+    },
+    {
+        "id": 4,
+        "name": "MailChimp",
+        "about": "Mailchimp is an American marketing automation platform and email marketing service.",
+        "image": "https://i.ibb.co/1T7tWGS/mail.png",
+        "status": "Connect",
+        "connection": false,
+        "favourite": false,
+        "blank": "Colony, The",
+        "blank2": "980-956-6338"
+    },
+    {
+        "id": 5,
+        "name": "WordPress",
+        "about": "WordPress is a free and open-source content management system written in PHP and MySQL.",
+        "image": "https://i.ibb.co/FDVnZ3h/wordpress.png",
+        "status": "Connect",
+        "connection": false,
+        "favourite": false,
+        "blank": "Betty Blue (37°2 le matin)",
+        "blank2": "960-807-3457"
+    },
+    {
+        "id": 6,
+        "name": "Salesforce",
+        "about": "Salesforce is a customer relationship management solution that brings companies and customers together.",
+        "image": "https://i.ibb.co/QDMGh2L/selsforce.png",
+        "status": "Connect",
+        "connection": false,
+        "favourite": false,
+        "blank": "Mother Dao, the Turtlelike (Moeder Dao, de schildpadgelijkende)",
+        "blank2": "665-203-9279"
+    }
+]

@@ -1,0 +1,8 @@
+.App {
+  padding: 40px;
+  background-color: #ebebeb;
+  display: flex;
+  justify-content: center;
+  height: 90vh;
+  max-width: 100%;
+}

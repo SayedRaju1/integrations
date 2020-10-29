@@ -1,0 +1,24 @@
+.Home {
+    /* border: 5px solid green; */
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    height: 90vh;
+}
+
+.category, .filter {
+    color: #1594EB;
+}
+
+.searchInput {
+    background-color: #ebebeb;
+    border: 0;
+}
+
+.search {
+    border-bottom: 1px solid#ccd4d8;
+}
+
+.item-type-text {
+    color: #999999
+}
